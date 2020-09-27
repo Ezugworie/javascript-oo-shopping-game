@@ -5,10 +5,10 @@ const score = 0;
 const items = 0;
 
 // Define the player object here
-player:{
-    name:'';
-    score:'';
-    items:'';
+let player = {
+    name:'',
+    score:'',
+    items:''
 }
 
 // Define the Product class - write the Constructor function for Product class here
